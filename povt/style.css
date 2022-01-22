@@ -1,0 +1,18 @@
+
+.car{
+    width: 300px ;
+    height: 400px ;
+    border:2px solid lightslategray;
+    
+}
+img{
+    width:300px ;
+    height:180px ;
+}
+h3{
+    color:green;
+}
+.main{
+    display: flex;
+ 
+}
